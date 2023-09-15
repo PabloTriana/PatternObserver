@@ -1,0 +1,7 @@
+C:\Users\Jesus\Documents\Patrones\PatternObserver\PatternObserver\bin\Debug\PatternObserver.exe.config
+C:\Users\Jesus\Documents\Patrones\PatternObserver\PatternObserver\bin\Debug\PatternObserver.exe
+C:\Users\Jesus\Documents\Patrones\PatternObserver\PatternObserver\bin\Debug\PatternObserver.pdb
+C:\Users\Jesus\Documents\Patrones\PatternObserver\PatternObserver\obj\Debug\PatternObserver.csproj.AssemblyReference.cache
+C:\Users\Jesus\Documents\Patrones\PatternObserver\PatternObserver\obj\Debug\PatternObserver.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Documents\Patrones\PatternObserver\PatternObserver\obj\Debug\PatternObserver.exe
+C:\Users\Jesus\Documents\Patrones\PatternObserver\PatternObserver\obj\Debug\PatternObserver.pdb
